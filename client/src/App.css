@@ -1,0 +1,34 @@
+*{
+margin:0;
+padding:0;
+}
+.about-footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #f2f2f2;
+    border-top: 1px solid #ccc;
+  }
+
+  /* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.dark-mode {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+.App-header {
+  background-color: #282c36;
+  padding: 20px;
+  border-radius: 8px;
+  color: #61dafb;
+}
